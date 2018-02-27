@@ -1,0 +1,109 @@
+Please tell me how many rows your ary[][] will have
+Please tell me the length of your arr[0] 
+Please tell me the values of arr[0] at index[0] 
+Please tell me the values of arr[0] at index[1] 
+Please tell me the values of arr[0] at index[2] 
+Please tell me the values of arr[0] at index[3] 
+Please tell me the values of arr[0] at index[4] 
+Please tell me the values of arr[1] at index[0] 
+Please tell me the values of arr[1] at index[1] 
+Please tell me the values of arr[1] at index[2] 
+Please tell me the values of arr[2] at index[0] 
+Please tell me the values of arr[2] at index[1] 
+Please tell me the values of arr[2] at index[2] 
+Please tell me the values of arr[2] at index[3] 
+
+ here is your ouput 
+
+
+aeg
+aeh
+aei
+afg
+afh
+afi
+beg
+beh
+bei
+bfg
+bfh
+bfi
+ceg
+ceh
+cei
+cfg
+cfh
+cfi
+deg
+deh
+dei
+dfg
+dfh
+dfi
+Please tell me the length of your arr[0] 
+Please tell me the values of arr[0] at index[0] 
+Please tell me the values of arr[0] at index[1] 
+Please tell me the values of arr[0] at index[2] 
+Please tell me the values of arr[0] at index[3] 
+Please tell me the values of arr[1] at index[0] 
+Please tell me the values of arr[1] at index[1] 
+Please tell me the values of arr[1] at index[2] 
+Please tell me the values of arr[1] at index[3] 
+Please tell me the values of arr[2] at index[0] 
+Please tell me the values of arr[2] at index[1] 
+Please tell me the values of arr[2] at index[2] 
+Please tell me the values of arr[2] at index[3] 
+
+ here is your ouput 
+
+
+adg
+adh
+adi
+aeg
+aeh
+aei
+afg
+afh
+afi
+bdg
+bdh
+bdi
+beg
+beh
+bei
+bfg
+bfh
+bfi
+cdg
+cdh
+cdi
+ceg
+ceh
+cei
+cfg
+cfh
+cfi
+Please tell me the length of your arr[0] 
+Please tell me the values of arr[0] at index[0] 
+Please tell me the values of arr[0] at index[1] 
+Please tell me the values of arr[0] at index[2] 
+Please tell me the values of arr[1] at index[0] 
+Please tell me the values of arr[1] at index[1] 
+Please tell me the values of arr[1] at index[2] 
+Please tell me the values of arr[2] at index[0] 
+Please tell me the values of arr[2] at index[1] 
+Please tell me the values of arr[2] at index[2] 
+
+ here is your ouput 
+
+
+ace
+acf
+ade
+adf
+bce
+bcf
+bde
+bdf
+Program halted!
